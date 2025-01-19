@@ -1,0 +1,4 @@
+pip install langchain-openai python-dotenv
+pip install --upgrade --quiet docx2txt langchain-community
+pip install -qU langchain-text-splitters
+pip install langchain-chroma
